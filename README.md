@@ -9,6 +9,10 @@ oferecido aos alunos da ETECAMP (Escola Técnica Estadual de Campo Limpo Paulist
    Temos o objetivo de usar o aplicativo "MiniSAP" para criar uma ideia inovadora, proposta ainda
 em desenvolvimento.
 
+   Como a estrutura do nosso trabalho de conclusão de curso esta fora do que é permitido pelo centro
+paula souza, iremos desta forma, fazer uma estrutura parecida com a da FATEC (Faculdade de Tecnologia do 
+Estado de São Paulo).
+
 os donos e colaboradosres deste trabalho são:
 LEONARDO DA GRAÇA MORAES 1
 NYCOLLAS FERITTO DIAS 2
