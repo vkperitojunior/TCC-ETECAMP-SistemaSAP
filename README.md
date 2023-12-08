@@ -6,12 +6,13 @@ Banca avalidaora: Meusdados.org.
 oferecido aos alunos da ETECAMP (Escola Técnica Estadual de Campo Limpo Paulista) pela empresa
 "Meusdados.org" e nosso professor: Daniel Henrique Gaspar.
 
-   Temos o objetivo de usar o aplicativo "MiniSAP" para criar uma ideia inovadora, proposta ainda
-em desenvolvimento.
+  Iremos fazer um programa que facilita a interação de funcionários no processo de aprendizagem, tornando tabelas de uma página web com sistema de inclusão, editagem, exclusão e vizualizacao em arquivos csv, utilizando um programa autoral que faz o upload do arquivo no sistema SAP.
 
-   Como a estrutura do nosso trabalho de conclusão de curso esta fora do que é permitido pelo centro
-paula souza, iremos desta forma, fazer uma estrutura parecida com a da FATEC (Faculdade de Tecnologia do 
-Estado de São Paulo).
+   Este trabalho foi desenvolvido de forma separada de qualquer instituição escolar e/ou empresarial, aceitando propostas e orientações.
+
+   Durante o desenvolvimento da aplicacao, usaremos o sistema SAP completo e original, oferecido pela empresa "meusdados.org".
+
+   Como a estrutura do nosso trabalho de conclusão de curso esta fora do que é permitida pela ETEC, iremos desta forma, fazer uma estrutura parecida com a da FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
 os donos e colaboradosres deste trabalho são:
 LEONARDO DA GRAÇA MORAES 1
@@ -24,6 +25,7 @@ revisão por:
 Barbara andrade 1
 Thaynara Maia Santos 2
 Marcelo Macrino 3
+Daniel Henrique 4
 
 Data de apresentação: 12/2023.
 Local de apresentção: Meusdados.org em Jundiaí - SP.
