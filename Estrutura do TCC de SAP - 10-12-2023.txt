@@ -1,0 +1,41 @@
+﻿Estrutura -->
+
+0º parte - Introdução
+- Capa.
+- folha de rosto.
+- Agradecimento.
+- sumario.
+
+1º parte - Metodologia
+- resumo.
+- palavras chave.
+- tema delimitado.
+- problema de pesquisa.
+- objetivos gerais.
+- objetivos especificos.
+- metodologia.
+
+2º parte - SAP
+- O que é o sistema SAP/introdução.
+- História do sistema SAP.
+- História da linguagem ABAP.
+- Importancia do SAP no mercado.
+- Exemplos de empresas que usam.
+- Pesquisa de campo sobre o sistema SAP 
+(faremos entrando em contato com empresas e verificando se as mesmas conhecem o sistema).
+
+3º parte - Aplicação ZESTOQUE
+- Qual a ideia da aplicação.
+- Porque criar essa aplicação.
+- Elementos usados na criação da aplicação.
+- Como o programa funciona (passos).
+
+4º parte - Sobre a equipe, o código e como criamos o tcc.
+- Quem somos.
+- Como o projeto foi criado e como tudo funcionou.
+- Onde o código esta disponibilizado.
+
+5º parte - Fechamento
+- Conclusão.
+- Referencias.
+- Contracapa da etec ++ refazer
