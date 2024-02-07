@@ -27,7 +27,7 @@ Thaynara Maia Santos 2
 Marcelo Macrino 3
 Daniel Henrique 4
 
-Data de apresentação: 12/2023.
+Data de apresentação: 07/2024
 Local de apresentção: Meusdados.org em Jundiaí - SP.
 
 Temos o objetivo de divulgar um trabalho bem feito e que sirva de base teorica a outros que queiram iniciar na programação e desenvolvimento do sistema SAP.
